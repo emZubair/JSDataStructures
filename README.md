@@ -5,3 +5,4 @@ Basic Data Structures implemented in JS, for the purpose of revision & understan
 ### So far implemented
 
 - Stack
+- Queue
